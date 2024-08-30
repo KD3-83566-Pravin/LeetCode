@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3226-minimum-number-game) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## String
+|  |
+| ------- |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
