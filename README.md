@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -16,4 +17,8 @@
 |  |
 | ------- |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+## Math
+|  |
+| ------- |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 <!---LeetCode Topics End-->
