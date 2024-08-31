@@ -6,6 +6,7 @@
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
+| [2777-find-the-distinct-difference-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2777-find-the-distinct-difference-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Bit Manipulation
