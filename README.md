@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3226-minimum-number-game) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
