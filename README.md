@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -54,6 +56,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
