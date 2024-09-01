@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -42,6 +43,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [3226-minimum-number-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3226-minimum-number-game) |
 ## Two Pointers
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
