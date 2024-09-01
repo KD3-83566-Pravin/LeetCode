@@ -7,6 +7,7 @@
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
