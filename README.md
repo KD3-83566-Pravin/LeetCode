@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Sorting
 |  |
