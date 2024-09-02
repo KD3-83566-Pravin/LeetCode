@@ -7,6 +7,7 @@
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -51,6 +53,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
