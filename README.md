@@ -10,6 +10,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1656-count-good-triplets](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1848-sum-of-unique-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1848-sum-of-unique-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2777-find-the-distinct-difference-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -89,6 +91,7 @@
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
