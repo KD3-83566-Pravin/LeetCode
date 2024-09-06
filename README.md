@@ -6,6 +6,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [1127-last-stone-weight](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1127-last-stone-weight) |
+| [1319-unique-number-of-occurrences](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
