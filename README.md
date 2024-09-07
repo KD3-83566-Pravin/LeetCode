@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Enumeration
