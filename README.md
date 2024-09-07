@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0075-sort-colors) |
 | [0682-baseball-game](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0682-baseball-game) |
 | [1127-last-stone-weight](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -55,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0075-sort-colors) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -80,6 +82,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0075-sort-colors) |
 | [2698-find-the-array-concatenation-value](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2698-find-the-array-concatenation-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
