@@ -123,4 +123,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
