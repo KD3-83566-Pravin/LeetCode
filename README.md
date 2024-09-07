@@ -44,10 +44,12 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0029-divide-two-integers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0029-divide-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Sorting
