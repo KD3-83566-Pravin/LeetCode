@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0029-divide-two-integers) |
+| [0263-ugly-number](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/0263-ugly-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/KD3-83566-Pravin/LeetCode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Sorting
